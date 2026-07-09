@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammed Suhail 👋</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision • Full-Stack • Generative AI</h3>
+<h3 align="center">AI/ML | Computer Vision • Full-Stack • Generative AI</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammed-suhail-a6aa602b6">
@@ -19,7 +19,6 @@ I'm an AI/ML professional based in Alappuzha, Kerala, India, holding an **MSc in
 
 I love working at the intersection of **computer vision, generative AI, and full-stack development** — from real-time hand-tracking effects to production-style RAG pipelines. I also run a daily YouTube Shorts channel on data science & AI.
 
-- 🔭 Currently building **Field Notes** — a full-stack MERN social platform with AI semantic search
 - 🎮 Experimenting with **OpenCV + MediaPipe** for gesture control, pose estimation, and creative visual effects
 - 🧠 Deep-diving into **local RAG architectures** with Ollama, ChromaDB, and FastAPI
 - 🎥 Posting daily AI/Data Science content on YouTube Shorts
@@ -56,15 +55,21 @@ I love working at the intersection of **computer vision, generative AI, and full
 
 | Project | Description |
 |---|---|
-| 🧵 **Field Notes** | Full-stack MERN social platform — MongoDB Atlas, JWT auth, Socket.io real-time chat, AI semantic search with local Ollama embeddings |
-| 📚 **AcademIQ** | Multi-document academic research assistant — FastAPI, ChromaDB, Ollama (llama3.2 + nomic-embed-text), multi-query retrieval & multi-agent endpoints |
-| 🧪 **rag14.py** | Single-file implementation of 14 different RAG architectures (Naive → HyDE) with BM25 + ChromaDB retrieval and a VS Code-style UI |
-| ✋ **CV Interactive Games** | Hand gesture recognition, face mesh, pose estimation & a motion-controlled Snake game built with OpenCV + MediaPipe |
-| ⛪ **Hand-Tracked 3D Lighting** | Real-time hand tracking driving Blender 3D church-model lighting via TouchDesigner OSC integration |
-| 😴 **Driver Drowsiness Detection** | PyTorch Lightning pipeline (EfficientNet-B0 / ResNet-50 / MobileNet) with explainability via SHAP, LIME & Grad-CAM++ |
-| 🪖 **Helmet Detection** | YOLOv8-based real-time detection system with a Streamlit frontend |
-| 📄 **TalentLens** | AI resume screening system — BERT/spaCy/Sentence Transformers, React + FastAPI + PostgreSQL |
-| 🛍️ **Amazon Recommender** | Collaborative filtering, SVD & KMeans-based product recommendation engine |
+| 🐦 [**Bird Counting & Weight Estimation (CCTV)**](https://github.com/muhammedsuhailjichu492-afk/Bird-Counting-and-Weight-Estimation-CCTV-Video-) | Production-ready CV system for automated poultry farm monitoring — real-time bird counting, tracking & weight estimation from fixed-camera CCTV footage |
+| 🩺 [**Stroke Prediction**](https://github.com/muhammedsuhailjichu492-afk/Stroke-prediction-) | Web-based early stroke risk identification system analyzing patient inputs & medical indicators for fast, reliable pre-screening |
+| 🧪 [**RAG-TYPES**](https://github.com/muhammedsuhailjichu492-afk/RAG-TYPES) | Collection of multiple Retrieval-Augmented Generation architectures implemented and compared |
+| 🔗 [**MULTI-RAG**](https://github.com/muhammedsuhailjichu492-afk/MULTI-RAG) | Multi-source RAG pipeline combining several retrieval strategies |
+| 📚 [**RAG**](https://github.com/muhammedsuhailjichu492-afk/RAG) | Core Retrieval-Augmented Generation implementation |
+| 🧥 [**Invisible Cloak**](https://github.com/muhammedsuhailjichu492-afk/INVISIBLE-CLOAK) | Real-time OpenCV color-detection illusion recreating the "invisibility cloak" effect |
+| 📖 [**Book Clustering**](https://github.com/muhammedsuhailjichu492-afk/BOOK-CLUSTERING) | Unsupervised clustering of Goodreads book data using Sentence Transformers |
+| 🎓 [**Student Placement Prediction**](https://github.com/muhammedsuhailjichu492-afk/STUDENT-PLACEMENT) | ML model predicting student placement outcomes from academic & profile data |
+| 🛋️ [**Online Furniture**](https://github.com/muhammedsuhailjichu492-afk/ONLINE-FURNITURE) | Data-driven analysis/application for an online furniture retail use case |
+| 🛒 [**Mall Customer Segmentation**](https://github.com/muhammedsuhailjichu492-afk/MALL-CUSTOMER) | Agglomerative clustering on mall customer data, deployed with Streamlit |
+| 📈 [**Stock Sense**](https://github.com/muhammedsuhailjichu492-afk/STOCK-SENSE) | Stock market analysis & prediction tool |
+| 🔍 [**Aspect Sense**](https://github.com/muhammedsuhailjichu492-afk/ASPECT-SENSE) | NLP aspect-based review analysis service — FastAPI + Streamlit |
+| 🎵 [**Music Recommendation**](https://github.com/muhammedsuhailjichu492-afk/MUSIC-RECCOMENDATION) | Content-based music recommendation system |
+| 🛍️ [**Product Recommendation**](https://github.com/muhammedsuhailjichu492-afk/PRODUCT-RECCOMENDATION) | Collaborative filtering, SVD & KMeans-based product recommendation engine |
+| 🪖 [**Smart Helmet**](https://github.com/muhammedsuhailjichu492-afk/SMART-HELMET) | YOLOv8-based real-time helmet detection system with a Streamlit frontend |
 
 ---
 
